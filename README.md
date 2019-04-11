@@ -1,4 +1,6 @@
 # hello-world
-My very first repository
+My first repository. Created on 2019/04/11
 
-I am a robotics engineer. Try and learn how to use git for my first time
+I am a robotics engineer.
+
+making this repo to start learning how to use git
